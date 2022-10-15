@@ -17,9 +17,9 @@
   ##
  
 <div> 
- <a href="https://discord.com/users/719956528462954618" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardo-rodrigues-2a1930251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ricardo272530@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/users/719956528462954618" target="_blank" title="Perfil Discord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardo-rodrigues-2a1930251/" target="_blank" title="Perfil Linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="Perfil Linkedin"></a>
+  <a href = "mailto:ricardo272530@gmail.com" target="_blank" title="Enviar e-mail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
   ![Snake animation](https://github.com/Ricardo-Rodrigues0/Ricardo-Rodrigues0/blob/output/github-contribution-grid-snake.svg)
  
