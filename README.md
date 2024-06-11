@@ -1,4 +1,4 @@
-## 🌐 Olá! Me chamo Ricardo Rodrigues, tenho 20 anos e atualmente venho estudando programação e pretendo entrar nesta área.
+## 🌐 Olá! Me chamo Ricardo Rodrigues, tenho 21 anos e atualmente venho estudando programação e pretendo entrar nesta área.
 
 <div align="center">
   <a href="https://github.com/Ricardo-Rodrigues0">
