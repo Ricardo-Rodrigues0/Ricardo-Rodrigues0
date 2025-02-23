@@ -16,9 +16,3 @@
   
   ##
  
-<div> 
- <a href="https://discord.com/users/719956528462954618" target="_blank" title="Perfil Discord"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
- 
-  ![Snake animation](https://github.com/Ricardo-Rodrigues0/Ricardo-Rodrigues0/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
