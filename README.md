@@ -1,18 +1,68 @@
-## 🌐 Olá! Me chamo Ricardo Rodrigues, tenho 21 anos e atualmente venho estudando programação e pretendo entrar nesta área.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0092bf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0092bf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+Ricardo+Rodrigues!;Desenvolvedor+focado+em+backend;Sempre+buscando+evoluir+e+aprender;Apaixonado+por+tecnologia+e+desafios;Seja+bem-vindo!+🚀)](https://git.io/typing-svg)
+
+<h1 align="left">Olá, como posso ajudar? 👋</h1>
+
+###
+
+<p align="left">Olá, sou Ricardo Rodrigues, tenho 22 anos e sou formado em Análise e Desenvolvimento de Sistemas. Atualmente, estou em busca de uma oportunidade na área de backend, com foco em contribuir para o desenvolvimento de soluções robustas e eficientes. Estou sempre em busca de novos desafios e de aprimorar minhas habilidades, buscando evolução contínua na minha carreira.</p>
+
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">🚀 Apaixonado por tecnologia e desenvolvimento<br>📚 Sempre em busca de aprendizado e novos desafios<br>🎯 Objetivo: me especializar na área de backend e crescer profissionalmente<br>🎲 Gosto de desafios, seja resolvendo bugs ou vencendo uma partida estratégica!<br><br></p>
+
+###
+
+<h2 align="left">Tecnologias que utilizo</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h2 align="left">📊 Minhas estatísticas</h2>
+
+###
 
 <div align="center">
-  <a href="https://github.com/Ricardo-Rodrigues0">
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardo-Rodrigues0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Rodrigues0&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RicardoRodriguesDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoRodriguesDev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-  ##
- <p> 📚 Atualmente estudando as linguagens: </p>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS
+###
+
+<h2 align="left">Contato</h2>
+
+<div align="left">
+  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/ricardo-rodrigues0/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/users/719956528462954618" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%232E2E2E?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="mailto:ricardo272530@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D44638?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
-  
-  ##
- 
+
+###
+
+🚀 Vamos conectar? Me chama para bater um papo sobre tecnologia! 😃
