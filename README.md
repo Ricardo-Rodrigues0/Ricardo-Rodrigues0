@@ -52,7 +52,7 @@
 <h2 align="left">Contato</h2>
 
 <div align="left">
-  <a href="[https://www.linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/ricardo-rodrigues0/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ricardo-rodrigues0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://discord.com/users/719956528462954618" target="_blank">
