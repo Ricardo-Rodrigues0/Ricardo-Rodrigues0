@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Olá, meu nome é Ricardo Rodrigues, tenho 22 anos, sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor full stack. Trabalho com Laravel, MySQL, jQuery, entre outras tecnologias voltadas ao desenvolvimento web. Tenho experiência na criação de sistemas completos, unindo backend e frontend para entregar soluções robustas, seguras e funcionais. Sou movido por desafios, aprendizado contínuo e pela busca constante por qualidade e eficiência no que desenvolvo.</p>
+<p align="left">Olá, meu nome é Ricardo Rodrigues, tenho 23 anos, sou formado em Análise e Desenvolvimento de Sistemas e atuo como desenvolvedor full stack. Trabalho com Laravel, MySQL, jQuery, entre outras tecnologias voltadas ao desenvolvimento web. Tenho experiência na criação de sistemas completos, unindo backend e frontend para entregar soluções robustas, seguras e funcionais. Sou movido por desafios, aprendizado contínuo e pela busca constante por qualidade e eficiência no que desenvolvo.</p>
 
 ###
 
